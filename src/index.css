@@ -1,0 +1,28 @@
+body{
+    background-image: url("background.png");
+    background-size:cover ; 
+    background-attachment: fixed;
+}
+
+.headerDiv{
+    display: flex;
+    margin-left: 3%;
+    margin-right: 3%;
+    justify-content: space-between;
+    align-items: center;
+    height:50px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.headerTitle{
+    font-size: 30px;
+    font-family: cursive;
+}
+
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap:20px;
+}

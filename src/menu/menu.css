@@ -1,0 +1,43 @@
+.menuPageHeaderDiv{
+    display: flex;
+    flex-direction: column;
+    border-style:groove;
+    max-width: 50%;
+    height: 50vh;
+    margin-left: 25%;
+    margin-top: 10%;
+    background-color: rgba(240, 248, 255, 0.461);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.optionList{
+    display: flex;
+    gap:1%;
+}
+
+.optionList button{   
+        background-color: #008CBA; 
+        border: none;
+        color: white;
+        padding: 12px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 4px;
+}
+
+.optionList button:hover {
+    background-color: #4c54afb7; /* Green */
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.favsContainer, 
+.signatureContainer,
+.shakesContainer,
+.cakesContainer{
+    display: flex;
+    gap:10%;
+}
+
