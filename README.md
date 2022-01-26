@@ -4,3 +4,5 @@ This is part of Odin JS path course. Concepts used in this project are,
 - Working with package.json file
 - Maintaining separate folders for every page inside ./src with its own JS, CSS, files
 - DOM manipulation, listeners, CSS
+
+Page - https://ram5shh.github.io/Restaurant-Page/
