@@ -41,3 +41,9 @@
     gap:10%;
 }
 
+.favsLink, 
+.signatureLink,
+.cakesLink,
+.shakesLink {
+    cursor: pointer;
+}

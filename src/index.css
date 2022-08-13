@@ -20,6 +20,11 @@ body{
     font-family: cursive;
 }
 
+.listItemHomeLink, 
+.listItemMenuLink,
+.listItemContactUsLink {
+    cursor: pointer;
+}
 
 ul{
     display: flex;
